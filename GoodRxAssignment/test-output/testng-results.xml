@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="93034" started-at="2019-11-03T13:44:16Z" finished-at="2019-11-03T13:45:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="93034" started-at="2019-11-03T13:44:16Z" finished-at="2019-11-03T13:45:49Z">
+      <class name="endTests.DemoTest">
+        <test-method status="PASS" signature="createReports()[pri:0, instance:endTests.DemoTest@53b32d7]" name="createReports" is-config="true" duration-ms="1407" started-at="2019-11-03T13:44:15Z" finished-at="2019-11-03T13:44:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createReports -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:endTests.DemoTest@53b32d7]" name="launchBrowser" is-config="true" duration-ms="22951" started-at="2019-11-03T13:44:16Z" finished-at="2019-11-03T13:44:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="AssignmentTest()[pri:0, instance:endTests.DemoTest@53b32d7]" name="AssignmentTest" duration-ms="63976" started-at="2019-11-03T13:44:39Z" finished-at="2019-11-03T13:45:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AssignmentTest -->
+        <test-method status="PASS" signature="quitBrowser()[pri:0, instance:endTests.DemoTest@53b32d7]" name="quitBrowser" is-config="true" duration-ms="6067" started-at="2019-11-03T13:45:43Z" finished-at="2019-11-03T13:45:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+        <test-method status="PASS" signature="flushReports()[pri:0, instance:endTests.DemoTest@53b32d7]" name="flushReports" is-config="true" duration-ms="975" started-at="2019-11-03T13:45:50Z" finished-at="2019-11-03T13:45:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flushReports -->
+      </class> <!-- endTests.DemoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
